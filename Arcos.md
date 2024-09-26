@@ -85,3 +85,6 @@ enfrentándose a nuevos desafíos y revelaciones sobre el mundo.
 
 ![image](https://github.com/user-attachments/assets/6fa203a5-27fd-40a1-b041-48d51951c71b)
 
+[Aqui tienes toda la informacion sobre todos los volumenes y capitulos](https://onepiece.fandom.com/es/wiki/Vol%C3%BAmenes_y_cap%C3%ADtulos)
+
+
