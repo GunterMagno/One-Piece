@@ -87,4 +87,4 @@ enfrentándose a nuevos desafíos y revelaciones sobre el mundo.
 
 [Aqui tienes toda la informacion sobre todos los volumenes y capitulos](https://onepiece.fandom.com/es/wiki/Vol%C3%BAmenes_y_cap%C3%ADtulos)
 
-[Para volver a la introduccion pincha aqui](Introduccion.md)
+Para volver a la introduccion [pincha aqui](Introduccion.md)
