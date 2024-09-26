@@ -1,9 +1,10 @@
-# **Lista de Arcos de One Piece** 
+![image](https://github.com/user-attachments/assets/7f2d165e-e277-4b28-aba2-a6fbb24b862c)# **Lista de Arcos de One Piece** 
 
 ## **One Piece es una historia que se dessarrolla en multiples arcos o sagas segun la parte de la historia en la que se encuentra**
 
 ### ***East Blue Saga*** (Capítulos 1-61)
 Luffy forma su tripulación mientras navega por el East Blue en busca de aventuras y nuevos amigos.
+![image](https://github.com/user-attachments/assets/f8e61a34-bae7-4005-b711-c6ce44e78931)
 
 ### ***Alabasta Saga*** (Capítulos 62-130)
 La tripulación se enfrenta a la organización Baroque Works y ayuda a una princesa a salvar su reino del caos.
