@@ -4,7 +4,6 @@
 
 ### ***East Blue Saga*** (Capítulos 1-61)
 Luffy forma su tripulación mientras navega por el East Blue en busca de aventuras y nuevos amigos.
-![image](https://github.com/user-attachments/assets/f8e61a34-bae7-4005-b711-c6ce44e78931)
 
 ### ***Alabasta Saga*** (Capítulos 62-130)
 La tripulación se enfrenta a la organización Baroque Works y ayuda a una princesa a salvar su reino del caos.
