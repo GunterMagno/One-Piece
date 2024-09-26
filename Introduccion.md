@@ -6,4 +6,5 @@ One Piece sigue las aventuras de Monkey D. Luffy, un joven pirata que sueña con
 
 La historia se desarrolla en un mundo vasto lleno de islas, peligros, y poderosos enemigos, incluyendo la Marina y otros piratas. A medida que Luffy y su tripulación navegan por el Grand Line, enfrentan desafíos, descubren secretos del pasado, y luchan por la libertad y la justicia, todo mientras buscan la manera de cumplir sus sueños individuales. La serie explora temas de amistad, lealtad y la búsqueda de la libertad en un mundo lleno de adversidades.
 
-Para ver los arcos de toda la serie 
+Para ver los arcos de toda la serie [pincha aqui](Arcos.md)
+
