@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7f2d165e-e277-4b28-aba2-a6fbb24b862c)# **Lista de Arcos de One Piece** 
+# **Lista de Arcos de One Piece** 
 
 ## **One Piece es una historia que se dessarrolla en multiples arcos o sagas segun la parte de la historia en la que se encuentra**
 
