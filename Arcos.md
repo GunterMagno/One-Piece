@@ -47,5 +47,5 @@ Luffy y sus amigos se unen a la resistencia para liberar Wano de un shogunato ti
 
 
 ### ***Egghead Arc*** (Capítulos 1001 en adelante, actualmente en emisión)
-La tripulación de Luffy se adentra en un misterioso laboratorio de ciencia futurista, enfrentándose a nuevos desafíos y revelaciones sobre el mundo.   ![image](https://github.com/user-attachments/assets/6fa203a5-27fd-40a1-b041-48d51951c71b)
+La tripulación de Luffy se adentra en un misterioso laboratorio de ciencia futurista, enfrentándose a nuevos desafíos y revelaciones sobre el mundo. ![image](https://github.com/user-attachments/assets/6fa203a5-27fd-40a1-b041-48d51951c71b)
 
